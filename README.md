@@ -52,7 +52,7 @@ This experience significantly strengthened my intuition about **deep learning ar
 
 ## 🤝 Acknowledgment
 
-Special thanks to **[Vizuraa YouTube Channel](https://www.youtube.com/@vizuarachannel)** for providing clear and insightful explanations of GPT-2 architecture and attention mechanisms.  
+Special thanks to **[Vizuraa YouTube Channel](https://www.youtube.com/@vizuara)** for providing clear and insightful explanations of GPT-2 architecture and attention mechanisms.  
 Their educational series helped me visualize and understand the theory while implementing it all from scratch.
 
 ---
