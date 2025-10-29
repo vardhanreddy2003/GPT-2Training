@@ -5,6 +5,9 @@
 
 GPT-2 architecture consists of the following core components:
 
+<img width="1400" height="1197" alt="image" src="https://github.com/user-attachments/assets/bc45deb9-4f42-427c-a4cc-af196611c4f5" />
+
+
 1. **Token Embeddings**
 2. **Positional Encodings**
 3. **N Transformer Blocks**, each with:
